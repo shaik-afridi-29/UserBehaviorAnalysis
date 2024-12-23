@@ -15,7 +15,6 @@ UserBehaviorAnalysis/
 │   └── User Behavior, Cooking Preferences, and Order Trends Analysis.doc # Final project report
 ├── README.md               # Project overview and instructions
 ├── requirements.txt        # Python dependencies for the project
-└── .gitignore              # Git ignore file
 ```
 
 ### Setup Instructions
